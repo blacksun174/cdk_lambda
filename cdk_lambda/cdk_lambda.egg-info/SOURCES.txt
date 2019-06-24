@@ -1,7 +1,0 @@
-README.md
-setup.py
-cdk_lambda/cdk_lambda.egg-info/PKG-INFO
-cdk_lambda/cdk_lambda.egg-info/SOURCES.txt
-cdk_lambda/cdk_lambda.egg-info/dependency_links.txt
-cdk_lambda/cdk_lambda.egg-info/requires.txt
-cdk_lambda/cdk_lambda.egg-info/top_level.txt
