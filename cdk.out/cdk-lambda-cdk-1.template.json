@@ -58,6 +58,7 @@
           ]
         },
         "Runtime": "python3.6",
+        "FunctionName": "commentableNewsRecommenderStg1",
         "Timeout": 300
       },
       "DependsOn": [
